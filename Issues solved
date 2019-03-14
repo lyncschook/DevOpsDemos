@@ -1,0 +1,7 @@
+When ssh-copy-id problem
+first check ansadmin is created in two servers
+put passwword authenctication yes in /etc/ssh/sshd_config
+copying build problem
+put remote directory /home/ansadmin
+chmod 777 /webapps
+setting---webhooks in github 
