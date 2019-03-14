@@ -5,3 +5,6 @@ copying build problem
 put remote directory /home/ansadmin
 chmod 777 /webapps
 setting---webhooks in github 
+issues for file transfer trough publish over ssh
+chown ansadmin:ansadmin /opt/playbooks
+chown dockeradmin:dockeradmin /opt/docker
